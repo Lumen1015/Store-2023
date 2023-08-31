@@ -1,1 +1,1 @@
-print('This is a python program')
+print('这是一个python程序')
